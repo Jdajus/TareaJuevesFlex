@@ -1,0 +1,39 @@
+.principal{
+    background-color: coral;
+    display: flex;
+}
+.cajas3{
+    background-color: aqua;
+    margin: 5px;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cajas31{
+    display: flex;
+    width: 100%;
+}
+.cajas3_1{
+    background-color: rgb(255, 0, 128);
+    margin: 5px;
+    width: 100%;
+}
+.cajas3_2{
+    background-color: brown;
+    margin: 5px;
+    width: 100%;
+}
+.cajas3_22{
+    background-color: crimson;
+    margin: 5px;
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+}
+.cajas3_3{
+    background-color: darkblue;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+}
